@@ -7,9 +7,7 @@
         parse_xml.py
         transform_data.py
         load_neo4j.py
-
         neo4j_pipeline.py
-
 
 
 5. Update the absolute path in the above files
