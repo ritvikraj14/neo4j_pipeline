@@ -4,6 +4,7 @@
 2. Setup airflow by following the instructions here: https://airflow.apache.org/docs/apache-airflow/stable/start.html
 3. Dowload the xml file Q9Y261.xml from the repo https://github.com/weavebio/data-engineering-coding-challenge/tree/main/data
 4. Dowload the repo https://github.com/ritvikraj14/neo4j_pipeline/ and keep all the files in the directory /Users/<username>/airflow/dags/
+        
         parse_xml.py
         transform_data.py
         load_neo4j.py
